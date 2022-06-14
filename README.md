@@ -1,5 +1,5 @@
 # Manage your dev tools with asdf-vm
-Slides for the London Java Community (LJC) Event in 2020-04-17
+Slides for the London Java Community (LJC) Event @ 2020-04-17
 
 [![YouTube Video](https://img.youtube.com/vi/6NNbqDTSFD0/0.jpg)][youtube-video]
 
